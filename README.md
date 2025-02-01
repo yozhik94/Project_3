@@ -14,4 +14,6 @@
 * equests - количество запросов
 
 ## Использованные библиотеки  
-Pandas SciPy NumPy Matplotliib Statsmodels 
+Pandas SciPy NumPy Matplotliib Statsmodels Prophet Catboost Lightgbm
+
+### Выводы
